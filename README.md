@@ -1,2 +1,2 @@
 # budgetCalculator
-Calculate how much you have to save and for how many months to have your 6 month safe guard savings
+Calculate your budget to have a 6 months worth savings.
